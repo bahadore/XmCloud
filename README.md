@@ -54,7 +54,7 @@ defined in Sitecore's [scope of support](https://kb.sitecore.net/articles/463549
 * .NET Framework 4.8 SDK
 * Visual Studio 2019
 * Docker for Windows, with Windows Containers enabled
-
+d
 See Sitecore Containers documentation for more information on system requirements.
 
 ## What's Included
